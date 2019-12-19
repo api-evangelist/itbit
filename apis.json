@@ -1,0 +1,65 @@
+{
+    "name": "itBit",
+    "description": "itBit offers secure bitcoin trading via our industry-leading exchange and OTC services. Open an account today.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28892-api-itbit-com.jpg",
+    "tags": [
+        "financial services",
+        "have api",
+        "marketplaces"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/itbit\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "itBit",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28892-api-itbit-com.jpg",
+            "humanURL": "https:\/\/api.itbit.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/itbit-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/itbit"
+        },
+        {
+            "type": "Email",
+            "url": "info@itBit.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@itBit.com"
+        },
+        {
+            "type": "Email",
+            "url": "help@itBit.com"
+        },
+        {
+            "type": "Email",
+            "url": "icg@itbit.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@itbit.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/itBit"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/api.itbit.com"
+        }
+    ]
+}
